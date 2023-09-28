@@ -1,5 +1,5 @@
-#FIFO page replacement algorithm implementation in python
-#Created By: Suman Adhikari
+#FIFO page replacement algorithm implementation in Python
+#Created By: Tigabu Abriham
 
 print("Enter the number of frames: ",end="")
 capacity = int(input())
